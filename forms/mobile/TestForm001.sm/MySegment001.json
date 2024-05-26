@@ -2,16 +2,106 @@
     "@class": "com.kony.gen.viz.model.container.KVizSegment2",
     "DNDConfig": null,
     "_data_": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "lblMore0afc0f0dc1a1b46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "More"
+            },
+            "lblMoreIcon0e91274041f6641": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
     ],
     "_height_": {
         "type": "string",
@@ -103,7 +193,13 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "Flex0a996a49a27904f": "Flex0a996a49a27904f"
+        "Flex0a996a49a27904f": "Flex0a996a49a27904f",
+        "flxMore0dc3a1c43b6754f": "flxMore0dc3a1c43b6754f",
+        "lblMore0afc0f0dc1a1b46": "lblMore0afc0f0dc1a1b46",
+        "lblMoreIcon0e91274041f6641": "lblMoreIcon0e91274041f6641",
+        "mainContainer0j0022e80c17842": "mainContainer0j0022e80c17842",
+        "rightContainer0ce7209ba070049": "rightContainer0ce7209ba070049",
+        "swipeContainer0b39f5d603a1540": "swipeContainer0b39f5d603a1540"
     },
     "zindex": 1
 }

@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "80dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -25,48 +25,35 @@
     "_skin_": "saea6f05d81f4cd4a23a2afdd876256d",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "76.92%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "swipeContainer0b39f5d603a1540"
-    ],
+    "children": [],
     "clipbounds": false,
-    "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "mobile",
-            "name": "Flex0a996a49a27904fController"
-        }
-    },
     "enablescrolling": true,
-    "id": "Flex0a996a49a27904f",
+    "id": "mainContainer0j0022e80c17842",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ece35b034d9740989ee4ed524b6d4b12",
+    "kuid": "e0d820e69eb7484f989edce18ae298bc",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "MySegmentTemp001",
+    "parent": "swipeContainer0b39f5d603a1540",
     "pf": "MySegmentTemp001",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "swipeConfig": {
-        "enableSwipe": true,
-        "enableSwipeLeft": true,
-        "enableSwipeRight": false,
-        "leftType": 0,
-        "rightType": 0
+    "vizProps": {
+        "isMainSwipeContainer": true
     },
     "wType": "FlexContainer",
     "widgetalignment": 1
