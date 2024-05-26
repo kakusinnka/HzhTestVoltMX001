@@ -35,6 +35,7 @@
     "canUpdateUI": true,
     "children": [],
     "clipbounds": false,
+    "containerId": true,
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -45,6 +46,7 @@
     "enablescrolling": true,
     "id": "Flex0a996a49a27904f",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ece35b034d9740989ee4ed524b6d4b12",
@@ -57,6 +59,13 @@
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
+    "swipeConfig": {
+        "enableSwipe": true,
+        "enableSwipeLeft": false,
+        "enableSwipeRight": false,
+        "leftType": 0,
+        "rightType": 0
+    },
     "wType": "FlexContainer",
     "widgetalignment": 1
 }
