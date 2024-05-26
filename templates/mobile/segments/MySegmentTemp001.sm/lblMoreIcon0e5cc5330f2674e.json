@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "lblMoreIcon0e91274041f6641",
+    "id": "lblMoreIcon0e5cc5330f2674e",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d1e4e1cbfa954f37ae6373616082c3eb",
+    "kuid": "f5db4ce7c80e4dbdbfa1e8ac09c4104f",
     "name": "kony.ui.Label",
-    "parent": "flxMore0dc3a1c43b6754f",
+    "parent": "flxMore0c93b01bbc22945",
     "pf": "MySegmentTemp001",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

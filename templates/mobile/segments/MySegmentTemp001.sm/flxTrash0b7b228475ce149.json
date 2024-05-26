@@ -22,39 +22,39 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "saea6f05d81f4cd4a23a2afdd876256d",
+    "_skin_": "sffb9920e07049698401b9f16d52547b",
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "76.92%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "lblTrashIcon0a456b0550d7c45",
+        "lblTrash0i9d6a321f78047"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "mainContainer0j0022e80c17842",
+    "id": "flxTrash0b7b228475ce149",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e0d820e69eb7484f989edce18ae298bc",
-    "layouttype": 2,
+    "kuid": "debaaef932044e0ba339d6f0846dfb69",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "swipeContainer0b39f5d603a1540",
+    "parent": "leftContainer0f63e069ea5c646",
     "pf": "MySegmentTemp001",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "vizProps": {
-        "isMainSwipeContainer": true
-    },
     "wType": "FlexContainer",
     "widgetalignment": 1
 }

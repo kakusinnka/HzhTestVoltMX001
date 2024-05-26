@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "80dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -22,51 +22,40 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "saea6f05d81f4cd4a23a2afdd876256d",
+    "_skin_": "secaf55eaade46c5be9b5976cbbb61ef",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "18.75%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "swipeContainer0ccf8cad20ef94c"
+        "flxTrash0b7b228475ce149"
     ],
     "clipbounds": false,
-    "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "mobile",
-            "name": "Flex0a996a49a27904fController"
-        }
-    },
     "enablescrolling": true,
-    "id": "Flex0a996a49a27904f",
+    "id": "leftContainer0f63e069ea5c646",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ece35b034d9740989ee4ed524b6d4b12",
-    "layouttype": 2,
+    "kuid": "i35e91d84a6c4be39de9ed9bfb41d565",
+    "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "MySegmentTemp001",
+    "parent": "swipeContainer0ccf8cad20ef94c",
     "pf": "MySegmentTemp001",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "swipeConfig": {
-        "enableSwipe": true,
-        "enableSwipeLeft": true,
-        "enableSwipeRight": true,
-        "leftType": 0,
-        "rightType": 0
+    "vizProps": {
+        "isLeftSwipeContainer": true
     },
     "wType": "FlexContainer",
     "widgetalignment": 1

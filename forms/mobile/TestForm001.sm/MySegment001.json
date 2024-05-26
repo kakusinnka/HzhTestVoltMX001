@@ -3,103 +3,183 @@
     "DNDConfig": null,
     "_data_": [
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         },
         {
-            "lblMore0afc0f0dc1a1b46": {
+            "lblMore0e056dc01374742": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "More"
             },
-            "lblMoreIcon0e91274041f6641": {
+            "lblMoreIcon0e5cc5330f2674e": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
+            },
+            "lblTrash0i9d6a321f78047": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Trash"
+            },
+            "lblTrashIcon0a456b0550d7c45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
             }
         }
     ],
@@ -194,12 +274,16 @@
     "widgetalignment": 5,
     "widgetdatamap": {
         "Flex0a996a49a27904f": "Flex0a996a49a27904f",
-        "flxMore0dc3a1c43b6754f": "flxMore0dc3a1c43b6754f",
-        "lblMore0afc0f0dc1a1b46": "lblMore0afc0f0dc1a1b46",
-        "lblMoreIcon0e91274041f6641": "lblMoreIcon0e91274041f6641",
-        "mainContainer0j0022e80c17842": "mainContainer0j0022e80c17842",
-        "rightContainer0ce7209ba070049": "rightContainer0ce7209ba070049",
-        "swipeContainer0b39f5d603a1540": "swipeContainer0b39f5d603a1540"
+        "flxMore0c93b01bbc22945": "flxMore0c93b01bbc22945",
+        "flxTrash0b7b228475ce149": "flxTrash0b7b228475ce149",
+        "lblMore0e056dc01374742": "lblMore0e056dc01374742",
+        "lblMoreIcon0e5cc5330f2674e": "lblMoreIcon0e5cc5330f2674e",
+        "lblTrash0i9d6a321f78047": "lblTrash0i9d6a321f78047",
+        "lblTrashIcon0a456b0550d7c45": "lblTrashIcon0a456b0550d7c45",
+        "leftContainer0f63e069ea5c646": "leftContainer0f63e069ea5c646",
+        "mainContainer0eb397c65dfd94d": "mainContainer0eb397c65dfd94d",
+        "rightContainer0h9d372afbfd744": "rightContainer0h9d372afbfd744",
+        "swipeContainer0ccf8cad20ef94c": "swipeContainer0ccf8cad20ef94c"
     },
     "zindex": 1
 }
