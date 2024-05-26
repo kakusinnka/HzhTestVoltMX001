@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "-30.00%"
+        "value": "-99.99%"
     },
     "_margin_": [
         0,
@@ -29,7 +29,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "160.00%"
+        "value": "300.01%"
     },
     "allboxes": [],
     "autogrowmode": 0,

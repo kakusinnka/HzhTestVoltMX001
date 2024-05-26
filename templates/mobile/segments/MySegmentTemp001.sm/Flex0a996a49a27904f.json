@@ -65,8 +65,8 @@
         "enableSwipe": true,
         "enableSwipeLeft": true,
         "enableSwipeRight": true,
-        "leftType": 0,
-        "rightType": 0
+        "leftType": 1,
+        "rightType": 1
     },
     "wType": "FlexContainer",
     "widgetalignment": 1
