@@ -60,7 +60,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "scrolldirection": 2,
+    "scrolldirection": 3,
     "snapgridsize": 10,
     "snaptogrid": true,
     "track": false,
