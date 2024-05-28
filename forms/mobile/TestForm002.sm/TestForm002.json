@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "MyFlexScrollContainer01"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
