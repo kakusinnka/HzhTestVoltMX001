@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "220dp"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2689c44e82045c99b4b2b7d4ecc4e5a",
+    "_skin_": "s7f9198ea8284fc880f8d2e234239b60",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,40 +32,36 @@
         "value": "100%"
     },
     "allboxes": [],
-    "allowhorizontalbounce": true,
-    "allowverticalbounce": true,
-    "bounces": true,
     "canUpdateUI": true,
-    "children": [
-        "FlexContainer0gb9df00ac76242",
-        "FlexContainer0g58b7136723c4c",
-        "FlexContainer0ccb4d22933874f"
-    ],
+    "children": [],
     "clipbounds": false,
     "containerweight": 100,
-    "decelerat": false,
-    "dragg": false,
     "enablescrolling": true,
-    "horizontalscrollindicator": true,
-    "id": "MyFlexScrollContainer01",
+    "id": "FlexContainer0g58b7136723c4c",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b9060a5f88b74b2ba5bb3f80d32c4fbf",
-    "layouttype": 4,
-    "name": "kony.ui.FlexScrollContainer",
-    "pagingenabled": false,
-    "parent": "TestForm002",
+    "kuid": "g755ad43b455485899a07c495eb9b859",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "MyFlexScrollContainer01",
     "pf": "TestForm002",
+    "responsiveconfig": {
+        "offset": {
+            "landscape": 0,
+            "portrait": 0
+        },
+        "span": {
+            "landscape": 6,
+            "portrait": 12
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "track": false,
-    "verticalscrollindicator": true,
-    "wType": "FlexScrollContainer",
+    "wType": "FlexContainer",
     "widgetalignment": 1,
     "zindex": 1
 }
