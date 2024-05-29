@@ -42,7 +42,8 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "Tab0c4dc0078f1754e"
+        "Tab1",
+        "Tab2"
     ],
     "collapsedimage": "",
     "containerweight": 100,
