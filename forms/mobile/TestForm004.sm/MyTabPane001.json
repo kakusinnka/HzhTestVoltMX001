@@ -2,7 +2,7 @@
     "@class": "com.kony.gen.viz.model.container.KVizTabPane",
     "DNDConfig": null,
     "_activeTabsBackUp": [
-        0
+        2
     ],
     "_height_": {
         "type": "string",
@@ -36,7 +36,7 @@
     },
     "activefocusskin": "s570f91a4d174f38b613629509cf3de2",
     "activeskin": "sf332b2f25d24c8ca2c0e4e8a3470c3e",
-    "activetab": 0,
+    "activetab": 2,
     "activetabs": [
         0
     ],
@@ -55,6 +55,11 @@
     "imageposition": "right",
     "inactiveskin": "s7f414401ecf42b9905ed28a48e0f462",
     "info": null,
+    "iphone": {
+        "psp": {
+            "pageSkin": "s174ce876a7d4697b79da6670a68bad7"
+        }
+    },
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ed684db64d3746059d3a95e7e00a2d48",

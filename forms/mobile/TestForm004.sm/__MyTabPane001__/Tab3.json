@@ -5,6 +5,7 @@
         "type": "string",
         "value": "150dp"
     },
+    "_image_": "pageondot.png",
     "_margin_": [
         0,
         0,
@@ -32,6 +33,7 @@
     "enablescrolling": true,
     "id": "Tab3",
     "info": null,
+    "invokedProperty": "image",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "cd640a9442a345f99d03868ea384fbcc",
