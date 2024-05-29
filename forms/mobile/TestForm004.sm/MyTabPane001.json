@@ -58,7 +58,8 @@
     "iphone": {
         "psp": {
             "pageSkin": "s174ce876a7d4697b79da6670a68bad7"
-        }
+        },
+        "viewType": "pageview"
     },
     "iscustomlayout": false,
     "isvisible": true,
@@ -84,8 +85,8 @@
         },
         "pageViewConfig": {
             "needPageIndicator": true,
-            "pageOffDotImage": "",
-            "pageOnDotImage": ""
+            "pageOffDotImage": "pageoffdot.png",
+            "pageOnDotImage": "pageondot.png"
         },
         "panoramaViewConfig": {
             "panoramaImage": "",
