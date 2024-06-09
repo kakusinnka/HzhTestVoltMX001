@@ -35,14 +35,18 @@
         "value": "100%"
     },
     "activefocusskin": "s570f91a4d174f38b613629509cf3de2",
-    "activeskin": "sf332b2f25d24c8ca2c0e4e8a3470c3e",
+    "activeskin": "sb775be58cec469c884797faad7d3e06",
     "activetab": 0,
     "activetabs": [
         0,
-        1,
-        2
+        1
     ],
     "allboxes": [],
+    "android": {
+        "psp": {
+            "tabHeaderHeight": 80
+        }
+    },
     "canUpdateUI": true,
     "children": [
         "Tab1",
@@ -59,9 +63,10 @@
     "info": null,
     "iphone": {
         "psp": {
-            "pageSkin": "s174ce876a7d4697b79da6670a68bad7"
+            "pageSkin": "s174ce876a7d4697b79da6670a68bad7",
+            "showProgressIndicator": false
         },
-        "viewType": "pageview"
+        "viewType": "tabview"
     },
     "iscustomlayout": false,
     "isvisible": true,
@@ -75,6 +80,12 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "screenlevelwidget": false,
+    "showProgressIndicator": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 0,
+        "widthRatio": 0
+    },
     "tabnamealignment": "left",
     "toggletabs": false,
     "viewconfig": {
