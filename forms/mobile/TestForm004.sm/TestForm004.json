@@ -51,7 +51,7 @@
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel6",
+    "device": "iPhone13Pro",
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "TestForm004",
@@ -105,9 +105,9 @@
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
+    "platform": "iphone",
     "prevDevice": "iPhone14",
-    "prevPlatform": "iphone",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

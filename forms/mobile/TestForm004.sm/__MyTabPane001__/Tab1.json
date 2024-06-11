@@ -23,14 +23,14 @@
     "_skin_": "s4834deba48349a49f44a779ad7b34c6",
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "80%"
     },
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
         "TextField0jf39cc5931c640"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "Tab1",
