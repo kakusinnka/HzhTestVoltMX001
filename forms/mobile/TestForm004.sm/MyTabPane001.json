@@ -2,7 +2,7 @@
     "@class": "com.kony.gen.viz.model.container.KVizTabPane",
     "DNDConfig": null,
     "_activeTabsBackUp": [
-        0
+        2
     ],
     "_height_": {
         "type": "string",
@@ -36,7 +36,7 @@
     },
     "activefocusskin": "s570f91a4d174f38b613629509cf3de2",
     "activeskin": "sb775be58cec469c884797faad7d3e06",
-    "activetab": 0,
+    "activetab": 2,
     "activetabs": [
         0,
         1
@@ -44,7 +44,7 @@
     "allboxes": [],
     "android": {
         "psp": {
-            "tabHeaderHeight": 80
+            "tabHeaderHeight": 10
         }
     },
     "canUpdateUI": true,
@@ -64,7 +64,8 @@
     "iphone": {
         "psp": {
             "pageSkin": "s174ce876a7d4697b79da6670a68bad7",
-            "showProgressIndicator": false
+            "progressIndicatorColor": "grey",
+            "showProgressIndicator": true
         },
         "viewType": "tabview"
     },
@@ -77,15 +78,17 @@
     "paddinginpixel": false,
     "parent": "TestForm004",
     "pf": "TestForm004",
+    "progressindicatorcolor": "grey",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "screenlevelwidget": false,
-    "showProgressIndicator": false,
+    "showProgressIndicator": true,
     "swipeContext": {
         "currentPage": 0,
         "imageWidth": 0,
         "widthRatio": 0
     },
+    "tabHeaderHeight": 10,
     "tabnamealignment": "left",
     "toggletabs": false,
     "viewconfig": {
