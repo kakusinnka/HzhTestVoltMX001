@@ -50,7 +50,7 @@
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
     "scrolldirection": 1,
-    "snapgridsize": 10,
+    "snapgridsize": "20",
     "snaptogrid": true,
     "tabname": "Tab001",
     "tabpaneId": "MyTabPane001",
