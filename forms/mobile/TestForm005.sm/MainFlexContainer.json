@@ -35,7 +35,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "MyButton"
+        "MyButton",
+        "MyCalendar"
     ],
     "clipbounds": false,
     "containerweight": 100,
