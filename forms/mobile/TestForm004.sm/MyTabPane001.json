@@ -44,7 +44,7 @@
     "allboxes": [],
     "android": {
         "psp": {
-            "tabHeaderHeight": 10
+            "tabHeaderHeight": 2
         }
     },
     "canUpdateUI": true,
@@ -88,7 +88,7 @@
         "imageWidth": 0,
         "widthRatio": 0
     },
-    "tabHeaderHeight": 10,
+    "tabHeaderHeight": 2,
     "tabnamealignment": "left",
     "toggletabs": false,
     "viewconfig": {
