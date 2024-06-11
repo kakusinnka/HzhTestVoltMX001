@@ -6,10 +6,26 @@
             "nodeDataArray": [
                 {
                     "formKUID": "ae52758cbe8143d29bb0775d01601e54",
-                    "formName": "Form1",
-                    "isStartupForm": true,
+                    "formName": "TestForm001",
+                    "isStartupForm": false,
                     "key": "ae52758cbe8143d29bb0775d01601e54",
                     "loc": "8 24.845263671875003",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "a1586cc3a2ab4974a02a2fbc6772852e",
+                    "formName": "TestForm002",
+                    "isStartupForm": false,
+                    "key": "a1586cc3a2ab4974a02a2fbc6772852e",
+                    "loc": "188 184.845263671875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "d75f4feb1a334020af29b13316947407",
+                    "formName": "TestForm004",
+                    "isStartupForm": true,
+                    "key": "d75f4feb1a334020af29b13316947407",
+                    "loc": "8 624.845263671875",
                     "thumbnailURL": null
                 }
             ]

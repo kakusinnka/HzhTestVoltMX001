@@ -27,8 +27,10 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
-    "clipbounds": true,
+    "children": [
+        "TextField0jf39cc5931c640"
+    ],
+    "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
     "id": "Tab1",
