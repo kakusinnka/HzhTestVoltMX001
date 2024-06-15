@@ -50,6 +50,8 @@
     "dateformat": "dd/MM/yyyy",
     "day": 11,
     "daytextalignmentincell": 5,
+    "disabledSkins": {},
+    "focusskin": "sebed558606648e7a9bf312874377375",
     "format": "dd/MM/yyyy",
     "formatteddate": "11/06/2024",
     "hidedaysheader": false,
