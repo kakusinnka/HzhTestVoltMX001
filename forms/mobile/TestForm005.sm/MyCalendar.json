@@ -2,8 +2,14 @@
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
     "Image": "bg_image.jpg",
+    "__id": "TestForm005_MyCalendar",
+    "__input": "MyCalendar",
     "_data_": null,
-    "_date_": "11/6/2024",
+    "_date_": [
+        12,
+        6,
+        2024
+    ],
     "_height_": {
         "type": "string",
         "value": "40dp"
@@ -21,6 +27,11 @@
         0
     ],
     "_skin_": "s54b186e15b647c98078df78c23b4101",
+    "_startG": [
+        0,
+        6,
+        2024
+    ],
     "_top_": {
         "type": "string",
         "value": "100dp"
@@ -39,43 +50,76 @@
     "containerweight": 100,
     "contentalignment": 5,
     "datecomponents": [
-        11,
+        12,
         6,
         2024,
-        0,
-        0,
-        0
+        8,
+        49,
+        2
     ],
     "dateeditable": true,
     "dateformat": "dd/MM/yyyy",
-    "day": 11,
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 12,
     "daytextalignmentincell": 5,
     "disabledSkins": {},
+    "displayedMonths": [
+        6,
+        2024
+    ],
+    "entereddate": [
+        12,
+        6,
+        2024,
+        8,
+        49,
+        2
+    ],
     "focusskin": "sebed558606648e7a9bf312874377375",
     "format": "dd/MM/yyyy",
     "formatteddate": "11/06/2024",
     "hidedaysheader": false,
     "hidemonthsheader": false,
-    "hour": 0,
+    "hour": 8,
     "id": "MyCalendar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "c84e206a09454ecdba98fda89e6be0ef",
-    "minutes": 0,
+    "minutes": 49,
     "month": 6,
+    "monthsinrow": 3,
     "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
     "noofmonths": 1,
     "pagedate": "/2024",
     "parent": "MainFlexContainer",
     "pf": "TestForm005",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "seconds": 0,
+    "seconds": 2,
     "selectdate": "//2024",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {
+            "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
+        }
+    },
     "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
     "year": 2024,
     "zindex": 1
 }
