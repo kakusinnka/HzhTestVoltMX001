@@ -1,7 +1,7 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
-    "Image": "calbtn.png",
+    "Image": "bg_image.jpg",
     "_data_": null,
     "_date_": "11/6/2024",
     "_height_": {
@@ -30,7 +30,7 @@
         "value": "300dp"
     },
     "advview": "default",
-    "calendaricon": "calbtn.png",
+    "calendaricon": "bg_image.jpg",
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
