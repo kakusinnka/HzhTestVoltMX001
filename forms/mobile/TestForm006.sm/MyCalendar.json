@@ -33,7 +33,7 @@
         "type": "string",
         "value": "300dp"
     },
-    "advview": "default",
+    "advview": "onscreen",
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
     "centerx": {
@@ -75,7 +75,7 @@
     "retainflexpositionproperties": false,
     "seconds": 0,
     "selectdate": "//2024",
-    "viewtype": "default",
+    "viewtype": "onscreen",
     "wType": "Calendar",
     "widgetalignment": 5,
     "year": 2024,
