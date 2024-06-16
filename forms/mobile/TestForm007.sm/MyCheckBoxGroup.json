@@ -32,6 +32,8 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
+    "disabledSkins": {},
+    "focusskin": "s21d8305a91b4e01a3014e61d89f9312",
     "id": "MyCheckBoxGroup",
     "info": null,
     "ipad": {
@@ -69,7 +71,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": null,
-    "selectedkeys": null,
+    "selectedkeys": [],
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
