@@ -40,7 +40,7 @@
         "type": "string",
         "value": "300dp"
     },
-    "advview": "default",
+    "advview": "onscreen",
     "calendaricon": "bg_image.jpg",
     "canUpdateUI": true,
     "centerx": {
@@ -129,7 +129,7 @@
             "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
         }
     },
-    "viewtype": "default",
+    "viewtype": "onscreen",
     "wType": "Calendar",
     "widgetalignment": 5,
     "widths": [
