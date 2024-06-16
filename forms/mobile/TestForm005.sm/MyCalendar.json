@@ -65,6 +65,11 @@
         6,
         2024
     ],
+    "enddate": [
+        1,
+        5,
+        2025
+    ],
     "entereddate": "18/06/2024",
     "focusskin": "sebed558606648e7a9bf312874377375",
     "format": "dd/MM/yyyy",
@@ -77,6 +82,7 @@
     "hour": 0,
     "id": "MyCalendar",
     "info": null,
+    "iphone": {},
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "c84e206a09454ecdba98fda89e6be0ef",
@@ -101,6 +107,21 @@
     "seconds": 0,
     "selectdate": "//2024",
     "startDay": 0,
+    "startdate": [
+        1,
+        5,
+        2024
+    ],
+    "validenddate": [
+        1,
+        5,
+        2025
+    ],
+    "validstartdate": [
+        1,
+        5,
+        2024
+    ],
     "viewconfig": {
         "gridConfig": {
             "gridCellSelectedSkin": "s9383f0a9f464063aafd1760f9c3430e",
