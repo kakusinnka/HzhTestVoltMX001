@@ -24,6 +24,7 @@
         0,
         0
     ],
+    "_mode_": 2,
     "_padding_": [
         0,
         0,
@@ -88,7 +89,11 @@
     "id": "MyCalendar",
     "info": null,
     "invokedProperty": "rightNavigationImage",
-    "iphone": {},
+    "iphone": {
+        "psp": {
+            "mode": 2
+        }
+    },
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "c84e206a09454ecdba98fda89e6be0ef",
