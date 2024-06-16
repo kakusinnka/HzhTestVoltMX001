@@ -34,7 +34,9 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "DataGrid0j3b02474b47d4f"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,

@@ -1,0 +1,133 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTable",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "col1": "RC 11",
+            "col2": "RC 12",
+            "col3": "RC 13"
+        },
+        {
+            "col1": "RC 21",
+            "col2": "RC 22",
+            "col3": "RC 23"
+        },
+        {
+            "col1": "RC 31",
+            "col2": "RC 32",
+            "col3": "RC 33"
+        },
+        {
+            "col1": "RC 41",
+            "col2": "RC 42",
+            "col3": "RC 43"
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "51dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "cellBorder": "3px solid #F4F4F4",
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "columnheadersconfig": [
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Col 1",
+            "columnID": "col1",
+            "columnOnClick": null,
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "idcc801a5c004c998a152ab54dda2905"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Col 2",
+            "columnID": "col2",
+            "columnOnClick": null,
+            "columnType": "text",
+            "columnWidthInPercentage": 34,
+            "isColumnSortable": false,
+            "kuid": "i405a3ceeb9c4c66bcfedbac5bb68c76"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderText": "Col 3",
+            "columnID": "col3",
+            "columnOnClick": null,
+            "columnType": "text",
+            "columnWidthInPercentage": 33,
+            "isColumnSortable": false,
+            "kuid": "gf3bc0b013314e87b4a6fbca10569ad5"
+        }
+    ],
+    "columnids": [
+        "col1",
+        "col2",
+        "col3"
+    ],
+    "columntype": [
+        "text",
+        "text",
+        "text"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "counter": "32",
+    "focusedindex": null,
+    "focuseditem": null,
+    "gridlinestyle": "solid",
+    "headerskin": "saac995e9e6b473fb774afcf188eedd5",
+    "id": "DataGrid0j3b02474b47d4f",
+    "info": null,
+    "iscustomlayout": false,
+    "ismultiselect": false,
+    "isvisible": true,
+    "kuid": "ebc6e38592494503800cdc18def19cad",
+    "name": "kony.ui.DataGrid",
+    "parent": "MainFlexContainer",
+    "pf": "TestForm008",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "rowalternateskin": "s88c27d69f7449979d0905e2be3705fe",
+    "rowcount": 4,
+    "rowfocusskin": "s2b921e9279c436ab15c671729751d7f",
+    "rownormalskin": "s08e2b07317a431a8b8ff2a04d114561",
+    "selectedcellindex": null,
+    "selectedcellitem": null,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditem": null,
+    "selecteditems": null,
+    "showcolumnheaders": true,
+    "wType": "DataGrid",
+    "zindex": 1
+}
