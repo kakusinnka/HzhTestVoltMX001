@@ -53,15 +53,15 @@
     "masterdata": [
         [
             "cbg1",
-            "Checkbox One"
+            "苹果"
         ],
         [
             "cbg2",
-            "Checkbox Two"
+            "橘子"
         ],
         [
             "cbg3",
-            "Checkbox Three"
+            "梨"
         ]
     ],
     "name": "kony.ui.CheckBoxGroup",
@@ -75,6 +75,7 @@
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
+    "tickedimage": "bg_image.jpg",
     "viewtype": 0,
     "wType": "CheckBoxGroup",
     "widgetalignment": 5,
