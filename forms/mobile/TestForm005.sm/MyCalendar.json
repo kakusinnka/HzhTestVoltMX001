@@ -78,7 +78,8 @@
     ],
     "focusskin": "sebed558606648e7a9bf312874377375",
     "format": "dd/MM/yyyy",
-    "formatteddate": "11/06/2024",
+    "formatteddate": "12/06/2024",
+    "gridSkin": "s2400ffdb85f4a7194491a6983015b05",
     "hidedaysheader": false,
     "hidemonthsheader": false,
     "hour": 8,
@@ -105,6 +106,7 @@
     "startDay": 0,
     "viewconfig": {
         "gridConfig": {
+            "gridCellSkin": "s4800949d66c482bb0a6680614b2b207",
             "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
         }
     },
