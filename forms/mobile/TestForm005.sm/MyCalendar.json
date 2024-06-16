@@ -6,7 +6,7 @@
     "__input": "MyCalendar",
     "_data_": null,
     "_date_": [
-        12,
+        18,
         6,
         2024
     ],
@@ -50,45 +50,42 @@
     "containerweight": 100,
     "contentalignment": 5,
     "datecomponents": [
-        12,
+        18,
         6,
-        2024,
-        8,
-        49,
-        2
+        2024
     ],
     "dateeditable": true,
     "dateformat": "dd/MM/yyyy",
     "datesGroup": [],
     "datesState": 0,
-    "day": 12,
+    "day": 18,
     "daytextalignmentincell": 5,
     "disabledSkins": {},
     "displayedMonths": [
         6,
         2024
     ],
-    "entereddate": [
-        12,
-        6,
-        2024,
-        8,
-        49,
-        2
-    ],
+    "entereddate": "18/06/2024",
     "focusskin": "sebed558606648e7a9bf312874377375",
     "format": "dd/MM/yyyy",
-    "formatteddate": "12/06/2024",
+    "formatteddate": "18/06/2024",
+    "gridCellSelectedSkin": "s9383f0a9f464063aafd1760f9c3430e",
+    "gridCellSkin": "s4800949d66c482bb0a6680614b2b207",
     "gridSkin": "s2400ffdb85f4a7194491a6983015b05",
     "hidedaysheader": false,
     "hidemonthsheader": false,
-    "hour": 8,
+    "hour": 0,
     "id": "MyCalendar",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "c84e206a09454ecdba98fda89e6be0ef",
-    "minutes": 49,
+    "luadate": [
+        18,
+        6,
+        2024
+    ],
+    "minutes": 0,
     "month": 6,
     "monthsinrow": 3,
     "name": "kony.ui.Calendar",
@@ -101,7 +98,7 @@
     "popupWidth": "auto",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "seconds": 2,
+    "seconds": 0,
     "selectdate": "//2024",
     "startDay": 0,
     "viewconfig": {
