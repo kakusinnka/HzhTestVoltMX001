@@ -28,9 +28,13 @@
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "30%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "disabledSkins": {},
     "focusskin": "s21d8305a91b4e01a3014e61d89f9312",
