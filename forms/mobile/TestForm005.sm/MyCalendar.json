@@ -106,6 +106,7 @@
     "startDay": 0,
     "viewconfig": {
         "gridConfig": {
+            "gridCellSelectedSkin": "s9383f0a9f464063aafd1760f9c3430e",
             "gridCellSkin": "s4800949d66c482bb0a6680614b2b207",
             "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
         }
