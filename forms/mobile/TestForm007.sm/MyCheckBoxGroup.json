@@ -28,7 +28,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "30%"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {
