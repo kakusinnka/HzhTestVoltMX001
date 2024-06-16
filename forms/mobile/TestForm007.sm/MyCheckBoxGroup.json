@@ -48,7 +48,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "itemorientation": "vertical",
+    "itemorientation": "horizontal",
     "kuid": "f311b8cd5a894058bf493f274f6c2da6",
     "masterdata": [
         [
@@ -65,7 +65,7 @@
         ]
     ],
     "name": "kony.ui.CheckBoxGroup",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "parent": "MainFlexContainer",
     "pf": "TestForm007",
     "retaincontentalignment": false,
