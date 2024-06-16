@@ -59,7 +59,7 @@
         2024
     ],
     "dateeditable": true,
-    "dateformat": "dd/MM/yyyy",
+    "dateformat": "MM/dd/yy",
     "datesGroup": [],
     "datesState": 0,
     "day": 18,
@@ -76,8 +76,8 @@
     ],
     "entereddate": "18/06/2024",
     "focusskin": "sebed558606648e7a9bf312874377375",
-    "format": "dd/MM/yyyy",
-    "formatteddate": "18/06/2024",
+    "format": "MM/dd/yy",
+    "formatteddate": "06/18/24",
     "gridCellSelectedSkin": "s9383f0a9f464063aafd1760f9c3430e",
     "gridCellSkin": "s4800949d66c482bb0a6680614b2b207",
     "gridSkin": "s2400ffdb85f4a7194491a6983015b05",
@@ -86,6 +86,7 @@
     "hour": 0,
     "id": "MyCalendar",
     "info": null,
+    "invokedProperty": "rightNavigationImage",
     "iphone": {},
     "iscustomlayout": false,
     "isvisible": true,
@@ -130,7 +131,9 @@
         "gridConfig": {
             "gridCellSelectedSkin": "s9383f0a9f464063aafd1760f9c3430e",
             "gridCellSkin": "s4800949d66c482bb0a6680614b2b207",
-            "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
+            "gridSkin": "s2400ffdb85f4a7194491a6983015b05",
+            "leftNavigationImage": "bg_image.jpg",
+            "rightNavigationImage": "bg_image.jpg"
         }
     },
     "viewtype": "default",
