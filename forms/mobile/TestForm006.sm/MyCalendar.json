@@ -2,7 +2,6 @@
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
     "Image": "calbtn.png",
-    "_data_": null,
     "_date_": "16/6/2024",
     "_height_": {
         "type": "string",
@@ -36,6 +35,7 @@
     "advview": "onscreen",
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
+    "celltemplate": null,
     "centerx": {
         "type": "string",
         "value": "50%"
@@ -61,6 +61,13 @@
     "hour": 0,
     "id": "MyCalendar",
     "info": null,
+    "invokedProperty": "gridcalendars",
+    "iphone": {
+        "psp": {
+            "cellTemplateId": null,
+            "celltemplate": null
+        }
+    },
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "fe8ff2102c5549aabc5b6be47315d5d5",
