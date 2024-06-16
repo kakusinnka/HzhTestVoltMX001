@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "MainFlexContainer"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
