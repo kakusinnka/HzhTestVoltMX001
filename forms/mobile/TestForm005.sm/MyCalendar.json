@@ -4,6 +4,10 @@
     "Image": "bg_image.jpg",
     "__id": "TestForm005_MyCalendar",
     "__input": "MyCalendar",
+    "_blur_": {
+        "enabled": false,
+        "value": 0
+    },
     "_data_": null,
     "_date_": [
         18,
@@ -40,7 +44,7 @@
         "type": "string",
         "value": "300dp"
     },
-    "advview": "onscreen",
+    "advview": "default",
     "calendaricon": "bg_image.jpg",
     "canUpdateUI": true,
     "centerx": {
@@ -129,7 +133,7 @@
             "gridSkin": "s2400ffdb85f4a7194491a6983015b05"
         }
     },
-    "viewtype": "onscreen",
+    "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,
     "widths": [
