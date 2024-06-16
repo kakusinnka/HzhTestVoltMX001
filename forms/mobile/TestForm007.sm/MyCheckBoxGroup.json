@@ -47,7 +47,7 @@
     },
     "iphone": {
         "psp": {
-            "viewType": 4
+            "viewType": 3
         }
     },
     "iscustomlayout": false,
@@ -75,9 +75,21 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": null,
-    "selectedkeys": [],
+    "selectedkeys": [
+        "cbg2",
+        "cbg3"
+    ],
     "selectedkeyvalue": null,
-    "selectedkeyvalues": null,
+    "selectedkeyvalues": [
+        [
+            "cbg2",
+            "橘子"
+        ],
+        [
+            "cbg3",
+            "梨"
+        ]
+    ],
     "size": 18,
     "tickedimage": "pageondot.png",
     "untickedimage": "pageoffdot.png",
