@@ -35,7 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "DataGrid0j3b02474b47d4f"
+        "MyDataGrid"
     ],
     "clipbounds": false,
     "containerweight": 100,
