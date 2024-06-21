@@ -55,6 +55,11 @@
         "type": "string",
         "value": "300dp"
     },
+    "android": {
+        "psp": {
+            "gridlineColor": "ff000000"
+        }
+    },
     "canUpdateUI": true,
     "cellBorder": "3px solid #F4F4F4",
     "centerx": {
@@ -114,7 +119,7 @@
             "columnText": "Not Defined",
             "columnType": "text",
             "columnWidthInPercentage": 25,
-            "ide_onClick": "AS_DataGrid_cd1f08ced1764a3f978a5201463b7130",
+            "ide_onClick": "AS_DataGrid_e19e7b7360d540de8425a8ae20e4cccd",
             "isColumnSortable": true,
             "kuid": "c5fccbed9f304cf393ae00c5f01d1085"
         }
@@ -141,7 +146,7 @@
     "id": "MyDataGrid",
     "info": null,
     "iscustomlayout": false,
-    "ismultiselect": false,
+    "ismultiselect": true,
     "isvisible": true,
     "kuid": "ebc6e38592494503800cdc18def19cad",
     "name": "kony.ui.DataGrid",
@@ -159,7 +164,7 @@
     "selectedindices": null,
     "selecteditem": null,
     "selecteditems": null,
-    "showcolumnheaders": true,
+    "showcolumnheaders": false,
     "wType": "DataGrid",
     "zindex": 1
 }
