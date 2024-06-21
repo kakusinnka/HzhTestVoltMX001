@@ -3,21 +3,25 @@
     "DNDConfig": null,
     "_data_": [
         {
+            "ID": "1",
             "col1": "RC 11",
             "col2": "RC 12",
             "col3": "RC 13"
         },
         {
+            "ID": "2",
             "col1": "RC 21",
             "col2": "RC 22",
             "col3": "RC 23"
         },
         {
+            "ID": "3",
             "col1": "RC 31",
             "col2": "RC 32",
             "col3": "RC 33"
         },
         {
+            "ID": "4",
             "col1": "RC 41",
             "col2": "RC 42",
             "col3": "RC 43"
@@ -60,48 +64,76 @@
     "columnheadersconfig": [
         {
             "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
             "columnHeaderText": "Col 1",
+            "columnHeaderType": "text",
             "columnID": "col1",
             "columnOnClick": null,
+            "columnText": "Not Defined",
             "columnType": "text",
-            "columnWidthInPercentage": 33,
+            "columnWidthInPercentage": 25,
+            "ide_onClick": null,
             "isColumnSortable": false,
             "kuid": "idcc801a5c004c998a152ab54dda2905"
         },
         {
             "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
             "columnHeaderText": "Col 2",
+            "columnHeaderType": "text",
             "columnID": "col2",
             "columnOnClick": null,
+            "columnText": "Not Defined",
             "columnType": "text",
-            "columnWidthInPercentage": 34,
+            "columnWidthInPercentage": 25,
+            "ide_onClick": null,
             "isColumnSortable": false,
             "kuid": "i405a3ceeb9c4c66bcfedbac5bb68c76"
         },
         {
             "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
             "columnHeaderText": "Col 3",
+            "columnHeaderType": "text",
             "columnID": "col3",
             "columnOnClick": null,
+            "columnText": "Not Defined",
             "columnType": "text",
-            "columnWidthInPercentage": 33,
+            "columnWidthInPercentage": 25,
+            "ide_onClick": null,
             "isColumnSortable": false,
             "kuid": "gf3bc0b013314e87b4a6fbca10569ad5"
+        },
+        {
+            "columnContentAlignment": 5,
+            "columnHeaderTemplate": null,
+            "columnHeaderText": "Header",
+            "columnHeaderType": "text",
+            "columnID": "ID",
+            "columnOnClick": null,
+            "columnText": "Not Defined",
+            "columnType": "text",
+            "columnWidthInPercentage": 25,
+            "ide_onClick": "AS_DataGrid_cd1f08ced1764a3f978a5201463b7130",
+            "isColumnSortable": true,
+            "kuid": "c5fccbed9f304cf393ae00c5f01d1085"
         }
     ],
     "columnids": [
         "col1",
         "col2",
-        "col3"
+        "col3",
+        "ID"
     ],
     "columntype": [
+        "text",
         "text",
         "text",
         "text"
     ],
     "containerweight": 100,
     "contentalignment": 5,
-    "counter": "32",
+    "counter": "33",
     "focusedindex": null,
     "focuseditem": null,
     "gridlinestyle": "solid",
