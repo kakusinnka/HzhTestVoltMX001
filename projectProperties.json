@@ -369,7 +369,7 @@
     "iphoneipadglossyeffectkey": "false",
     "iphoneloadindicatorkey": "true",
     "iphoneurlscheme": "",
-    "iphonewebshrtcutkey": "",
+    "iphonewebshrtcutkey": "apple-touch-icon.png",
     "isA11yConfigEnabled": false,
     "isDpScaleFactor": true,
     "isI18nConfigEnabled": false,
