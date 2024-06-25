@@ -1,13 +1,13 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
+    "_blur_": {
+        "enabled": false,
+        "value": 0
+    },
     "_height_": {
         "type": "ref",
         "value": "preferred"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "118dp"
     },
     "_margin_": [
         1,
@@ -22,14 +22,14 @@
         0
     ],
     "_skin_": "sa2c90761fd2478984ab1a8ead021804",
-    "_text_": "Label",
+    "_text_": "apple apple apple apple",
     "_top_": {
         "type": "string",
-        "value": "149dp"
+        "value": "100dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "250dp"
     },
     "_wrapping_": 2,
     "android": {
@@ -39,8 +39,12 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "id": "MyLabel",
     "info": null,
     "ipad": {
